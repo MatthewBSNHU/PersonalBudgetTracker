@@ -50,4 +50,4 @@ Enter your choice: 5
 Total Income: $5000.00
 Total Expenses: $0.00
 Net Savings: $5000.00
------------------------
+
